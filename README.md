@@ -1,4 +1,5 @@
 # pluginPDFInvoice
+Customize the PDF Invoice using the plugin:
 PDF Invoices &amp; Packing Slips for WooCommerce<br>
 By WPOvernight.com
 
